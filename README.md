@@ -27,10 +27,6 @@ ___
 * TypeScript
 * Socket.IO
 * Axios
-* HTML
-* CSS
-* JS
-
 ___
 
 ## Información del proyecto / Project information
