@@ -1,0 +1,32 @@
+
+#Arrivals --------------------------------------------
+
+POST
+http://localhost:4000/notification
+
+
+{
+    "type": "arrival",
+    "code": "110",
+    "time": "12:05:00",
+    "point": "origin G",
+    "location": "Gate G",
+    "status": "on-time"
+}
+
+#Departures  --------------------------------------------
+
+POST
+http://localhost:4000/notification
+
+
+{
+    "type": "departure",
+    "code": "007",
+    "time": "12:06:28",
+    "point": "destination G",
+    "location": "Gate G",
+    "status": "on-time"
+}
+
+
