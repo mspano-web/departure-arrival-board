@@ -6,7 +6,7 @@ Complementariamente se crearon los proyectos mockup-management-system y mockup-t
 Es totalmente gratuito y compartido como un aporte a la comunidad. 
 Se focalizará en la comunicacion entre procesos mediante el uso de la libreria Socket.io
 Se utilizara como base la tecnologia Node JS y el lenguaje Typescript.
-Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web MS](https://www.youtube.com/@developerwebms/playlists))
+Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web MS](https://www.youtube.com/@developerwebms/playlists)
 (en breve se estara publicando)
 ___
 
@@ -16,8 +16,7 @@ Additionally, the mockup-management-system and mockup-terminal projects were cre
 It is completely free and shared as a contribution to the community. 
 It will focus on communication between processes through the use of the Socket.io library
 Node JS technology and the Typescript language will be used as a base.
-It is supported by videos that will be published on the YouTube channel: [Developer Web MS]
-(https://www.youtube.com/@developerwebms/playlists)
+It is supported by videos that will be published on the YouTube channel: [Developer Web MS](https://www.youtube.com/@developerwebms/playlists)
 (will be published soon)
 ___
 
