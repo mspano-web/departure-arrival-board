@@ -46,5 +46,5 @@ ___
 
 * [Socket.io Oficial Page](https://socket.io/)
 
-* [Application Design](https://drive.google.com/file/d/1sv5Jbn6PYA_NPV6hH7ll2eVHpI6vaboy/view?usp=drive_link)
+* [Application Design](https://drive.google.com/file/d/1jaC0-CW0vyGbq3feHZ_LEVBH88qfBSjG/view?usp=sharing)
 * [Overview](https://drive.google.com/file/d/103y9K94H5jsIjayl8E0OSFmuJDEUYHgu/view?usp=drive_link) 
